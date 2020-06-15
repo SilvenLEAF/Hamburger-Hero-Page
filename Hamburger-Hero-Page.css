@@ -1,7 +1,7 @@
 /* ****************VARIABLES */
 :root{
      --main-color: hsla(100, 100%, 50%, 1);
-     --nav-color: hsla(230, 100%, 50%, 0.6);
+     --nav-color: hsla(230, 100%, 50%, 0.5);
      --hamburger-transition: 0.4s;
      --nav-circle: transform 0.7s ease;
      --nav-navigations: opaciy 0.7s ease;
