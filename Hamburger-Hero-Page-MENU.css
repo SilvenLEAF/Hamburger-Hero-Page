@@ -49,10 +49,10 @@
 .              ANIMATING HAMBURGER
 *************************************** */
 .checkbox:checked + .hamburger::before{
-     transform: translateY(12px) rotate(135deg);
+     transform: translateY(12px) rotate(-135deg);
 }
 .checkbox:checked + .hamburger::after{
-     transform: translateY(-12px) rotate(-135deg);
+     transform: translateY(-12px) rotate(135deg);
 }
 .checkbox:checked + .hamburger > div{
      transform: scale(0);
