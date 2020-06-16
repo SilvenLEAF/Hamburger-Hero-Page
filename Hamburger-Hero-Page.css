@@ -16,6 +16,8 @@
 body{
      background-color: var(--main-color);
 }
+
+/* ***************HEADINGS and PARAS */
 h1{
      margin: 50px;
      font-size: 16px
